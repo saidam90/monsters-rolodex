@@ -28,7 +28,7 @@ https://robohash.org/
 
 
 ## Screenshots
-<img width="1407" alt="Screenshot 2023-05-06 at 18 44 08" src="https://user-images.githubusercontent.com/74564476/236631110-101ba286-3336-40ac-8af1-7494beaf07da.png">
+![ezgif com-optimize](https://user-images.githubusercontent.com/74564476/236637218-1becddbf-5164-460e-b973-f100dc7a4c5c.gif)
 
 
 ## Setup
