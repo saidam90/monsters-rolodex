@@ -11,10 +11,13 @@
   backface-visibility: hidden;
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
+  filter: grayscale(100%);
 }
 
-.card-container:hover {
+.card-container:hover,
+.card-container.active {
   transform: scale(1.05);
+  filter: none;
 }
 
 .card-container h2 {
