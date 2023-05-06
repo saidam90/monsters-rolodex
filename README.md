@@ -1,6 +1,6 @@
 # Monsters Rolodex
 > This project is just a simple fetch to an API containing users, attached to each user is a monster image coming from another API, and using a search bar to automatically display search results based on users input in the search bar as they type.
-> Live demo [_here_]([https://www.example.com](https://saidam90.github.io/monsters-rolodex/)).
+> Live demo [_here_](https://saidam90.github.io/monsters-rolodex/).
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
