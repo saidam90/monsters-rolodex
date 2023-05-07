@@ -28,7 +28,7 @@ https://robohash.org/
 
 
 ## Screenshots
-![ezgif com-optimize](https://user-images.githubusercontent.com/74564476/236637218-1becddbf-5164-460e-b973-f100dc7a4c5c.gif)
+![monstersrolodex](https://user-images.githubusercontent.com/74564476/236672834-7710a55f-a8f8-40f2-bd4f-4540e39d7385.gif)
 
 
 ## Setup
